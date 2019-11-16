@@ -141,7 +141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &43629163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -250,6 +250,7 @@ MonoBehaviour:
   transformA: {fileID: 2056004880}
   transformB: {fileID: 2131453244}
   cam: {fileID: 135505746}
+  aud: {fileID: 504899346}
 --- !u!1 &83827869
 GameObject:
   m_ObjectHideFlags: 0
@@ -1330,6 +1331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   scoreHeight: 0
+  pipe: {fileID: 5005175588851829672, guid: dbe21697e71a74342a0b044453b846e4, type: 3}
 --- !u!4 &1498019172
 Transform:
   m_ObjectHideFlags: 0
